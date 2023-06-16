@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul> 
+  <li>learning and practicing HTML, CSS and JavaScript on
+    <a href="https://github.com/rocketseat" target="_blank">@rocketseat</a>
+  </li>
+</ul>
