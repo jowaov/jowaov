@@ -1,7 +1,7 @@
 ## about me
 #### i am joão, 24 years old, in 2024 i decided to fully dive on programming and its challenges, lets see where i can go.
 <ul> 
-  <li>learning and practicing Javascript on
+  <li>learning and practicing JavaScript / React on
     <a href="https://github.com/rocketseat" target="_blank">@rocketseat</a>
   </li>
 </ul>
