@@ -1,7 +1,7 @@
 ## about me
 #### i am joão
 <ul> 
-  <li>learning C# on
-    <a href="https://github.com/rocketseat" target="_blank">@rocketseat</a>
+  <li>learning code and AI on
+    <a href="https://www.infnet.edu.br/infnet/home/" target="_blank">Infnet</a>
   </li>
 </ul>
